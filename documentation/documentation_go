@@ -1,0 +1,39 @@
+go
+
+
+a função "main", é a função especial do go
+
+func main() {
+
+}
+
+todo arquivo vai pertencer à um pacote
+no vscode a gente abre outro terminal para conseguir rodar o go.
+
+usando go run e o nome do arquivo, por exemplo: main.go
+
+"aprender também a utilidade de alguns comando em git"
+
+para fazer comentários e go, podemos utilizar o //
+
+e para mostrar os types do mesmo jeito de sempre.
+
+existe uma diferença bem grande entre linguagens compiladas e línguagens interpretadas. (pesquisar e ler melhor sobre o processo.
+
+o go é uma linguagem mais performáticas.
+normalmente a línguagem compilada é bem mais performática. (mais rápida).
+
+segundos de ganhos de performaces.
+
+go run compila e roda o meu arquivo main.go;
+para compilar um arquivo usar: go build other.go
+
+entender também sobre compilação entre arquiteturas.
+
+go é uma linguagem multiplataforma.
+
+PESQUISAR O QUE PODE SER "MODULOS EM GO". >> GO MOD INIT GITHUB.COM/REPO;
+
+FLAGS DE COMPILAÇÃO.
+
+CÓDIGO > COMPILADOR DO CÓDIGO > LINAGUAGEM DE MÁQUINA > LINKING "LINKAGEM" > EXECUTÁVEL (PROGRAMA).
